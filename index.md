@@ -51,7 +51,7 @@ Se resolvieron sistemas lineales con métodos directos (Gauss-Jordan, Matriz inv
 
 Se evaluaron integrales definidas con los métodos del trapecio y de Simpson, y se calcularon derivadas numéricas hacia adelante, atrás y centradas.
 
-[Ver código](tarea5/integracion_diferenciacion.py)
+[Ver código](https://github.com/EmmanuelT21/ProyectoFinal/blob/main/integracionydiferenciacion.py)
 
 ![image](https://github.com/user-attachments/assets/195d3dea-5b4f-4967-b0db-e7fb7ba26a87)
 
