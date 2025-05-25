@@ -6,7 +6,7 @@
 Este repositorio contiene las tareas realizadas durante el semestre
 
 
-![image](https://github.com/user-attachments/assets/cefc323d-51e8-4a4a-8b75-7e0d4a2fc8cd)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdkOGQyZ3B0aHVwaW1sYW43dW45aDNyenFxdTdibnVzZWhqdzd2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 ### Tarea 1: Repaso de Programación
@@ -80,4 +80,4 @@ Se aplicaron técnicas de interpolación (lineal, cuadrática, Newton) y regresi
 
 ### Y eso es to eso es to eso es todo amigos
 
-![image](https://github.com/user-attachments/assets/2ae20b78-bbf5-4151-a6d0-bdb9d7828769)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZiaGp3eG5xZ3M2MWVjNnFvMTh2YmpsZzJrYTJxZzZkdWowb25keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mR3dXKpI6P8CA/giphy.gif)
