@@ -79,6 +79,7 @@ Se aplicaron técnicas de interpolación (lineal, cuadrática, Newton) y regresi
 ![image](https://github.com/user-attachments/assets/72e3bbc7-ee7b-41d9-9edf-8bab0130e9a4)
 
 
-### Y eso es to eso es to eso es todo amigos
+
+## Y eso es to eso es to eso es todo amigos 🐷
 
 ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZiaGp3eG5xZ3M2MWVjNnFvMTh2YmpsZzJrYTJxZzZkdWowb25keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mR3dXKpI6P8CA/giphy.gif)
