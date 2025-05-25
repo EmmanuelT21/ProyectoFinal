@@ -5,6 +5,10 @@
 **Descripción:**  
 Este repositorio contiene las tareas realizadas durante el semestre
 
+
+![image](https://github.com/user-attachments/assets/cefc323d-51e8-4a4a-8b75-7e0d4a2fc8cd)
+
+
 ### Tarea 1: Repaso de Programación
 Se resolvieron ejercicios para repasar programación, se vio matrices, gráficas y vectores.
 
@@ -72,3 +76,8 @@ Se aplicaron técnicas de interpolación (lineal, cuadrática, Newton) y regresi
 [Regresión Ejercicio Salarios](https://github.com/EmmanuelT21/ProyectoFinal/blob/main/regresion_csv_salarios.py)
 
 ![image](https://github.com/user-attachments/assets/72e3bbc7-ee7b-41d9-9edf-8bab0130e9a4)
+
+
+### Y eso es to eso es to eso es todo amigos
+
+![image](https://github.com/user-attachments/assets/2ae20b78-bbf5-4151-a6d0-bdb9d7828769)
